@@ -9,8 +9,16 @@ Tools and Technology
 
 
 NLP Library: We will use the NLTK library in Python for text processing and sentiment analysis.
+
+
+
 ML Library: We will use the scikit-learn library in Python for machine learning tasks.
+
+
+
 Database: We will use a database management system like MySQL to store candidate information and interview responses.
+
+
 
 
 Approach
